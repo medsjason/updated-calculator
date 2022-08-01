@@ -1,0 +1,36 @@
+.layer{
+    margin: 10%;
+    border: 1px solid black;
+    background-color: black;
+    width:320px;
+    height: 525px;
+    border-radius: 30px;
+}
+#display{
+    border: 1px solid orange;
+    width: 200px;
+    height: 15px;
+    margin: 42px 20px 20px 20px;
+    padding: 20px; 
+    background-color: orange;
+    text-align: right;
+}
+marquee{
+    color: orange;
+    margin-top: 5px;
+}
+#off,#clear,#perc,#eight,#delete, #divide, #nine,#on,#seven,#six,#five,#four,#three,#two,#one,#zero,#equal,#dot,#minus,#mul,#add{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 13px;
+    border-color: blueviolet;
+}
+.ON{
+    text-align: center;
+}
+#buttons{
+    margin: 10px;
+}
